@@ -1,0 +1,23 @@
+.listItem {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+}
+.listItem button {
+  height: 100%;
+  margin: 0 0 0 0.5rem;
+  transition-duration: 0.2s;
+  border: 1px solid midnightblue;
+  border-radius: 5px;
+  padding: 0 1rem;
+  cursor: pointer;
+  background-color: white;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.listItem button:hover {
+  background-color: midnightblue;
+  color: white;
+}
