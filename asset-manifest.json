@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-gdsc/static/css/main.4a85ebb3.css",
+    "main.js": "/todo-gdsc/static/js/main.9fd00880.js",
+    "index.html": "/todo-gdsc/index.html",
+    "main.4a85ebb3.css.map": "/todo-gdsc/static/css/main.4a85ebb3.css.map",
+    "main.9fd00880.js.map": "/todo-gdsc/static/js/main.9fd00880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a85ebb3.css",
+    "static/js/main.9fd00880.js"
+  ]
+}
