@@ -1,4 +1,14 @@
+@font-face {
+  font-family: "SF UI Display Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: local("SF UI Display Medium"),
+    url("../public/fonts/sf-ui-display-medium-58646be638f96.woff")
+      format("woff");
+}
+
 .App {
+  font-family: "SF UI Display Medium";
   display: flex;
   height: 100vh;
   color: black;
